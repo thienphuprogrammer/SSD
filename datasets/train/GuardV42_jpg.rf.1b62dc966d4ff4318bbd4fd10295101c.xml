@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>GuardV42_jpg.rf.1b62dc966d4ff4318bbd4fd10295101c.jpg</filename>
+	<path>GuardV42_jpg.rf.1b62dc966d4ff4318bbd4fd10295101c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1093</xmin>
+			<xmax>1232</xmax>
+			<ymin>579</ymin>
+			<ymax>681</ymax>
+		</bndbox>
+	</object>
+</annotation>

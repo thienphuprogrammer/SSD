@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>002967_jpg.rf.eed5d71ed0aeeb6765947155f8ac26d0.jpg</filename>
+	<path>002967_jpg.rf.eed5d71ed0aeeb6765947155f8ac26d0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>295</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>37</xmin>
+			<xmax>278</xmax>
+			<ymin>17</ymin>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

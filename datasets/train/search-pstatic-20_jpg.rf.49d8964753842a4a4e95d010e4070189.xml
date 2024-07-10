@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>search-pstatic-20_jpg.rf.49d8964753842a4a4e95d010e4070189.jpg</filename>
+	<path>search-pstatic-20_jpg.rf.49d8964753842a4a4e95d010e4070189.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>140</xmin>
+			<xmax>334</xmax>
+			<ymin>118</ymin>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

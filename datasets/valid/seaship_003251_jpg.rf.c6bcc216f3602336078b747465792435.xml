@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>seaship_003251_jpg.rf.c6bcc216f3602336078b747465792435.jpg</filename>
+	<path>seaship_003251_jpg.rf.c6bcc216f3602336078b747465792435.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>1682</xmax>
+			<ymin>324</ymin>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>
